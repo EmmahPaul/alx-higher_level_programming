@@ -1,4 +1,7 @@
- a class rectangle
+#!/usr/bin/python3
+
+"""
+Defines a class rectangle
 """
 
 
